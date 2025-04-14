@@ -91,15 +91,14 @@ QPushButton:pressed {
   <widget class="QLabel" name="label">
    <property name="geometry">
     <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>491</width>
-     <height>751</height>
+     <x>-110</x>
+     <y>-20</y>
+     <width>691</width>
+     <height>1001</height>
     </rect>
    </property>
    <property name="styleSheet">
-    <string notr="true">background-size: 32px 32px;
-background-image: url(:/barbie.jpg);
+    <string notr="true">background-image: url(:/barbie.jpg);
     background-position: center;</string>
    </property>
    <property name="text">
