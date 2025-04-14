@@ -1,0 +1,25 @@
+# ninja log v6
+973	2649	7663398662000148	CMakeFiles/kalkulator.dir/kalkulator.cpp.obj	13266b690f852a13
+30	241	7663426828471630	kalkulator_autogen/timestamp	77a4672cc48e1864
+30	241	7663426828471630	kalkulator_autogen/mocs_compilation.cpp	77a4672cc48e1864
+30	241	7663426828471630	D:/287181/kalkulator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/kalkulator_autogen/timestamp	77a4672cc48e1864
+2872	3189	7663426856937777	kalkulator.exe	ad4cb9de1fd6dee
+30	241	7663426828471630	D:/287181/kalkulator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/kalkulator_autogen/mocs_compilation.cpp	77a4672cc48e1864
+3130	6199	7663423708055466	CMakeFiles/kalkulator.dir/kalkulator_autogen/mocs_compilation.cpp.obj	85ca40a176fe75cc
+968	3852	7663398661989017	CMakeFiles/kalkulator.dir/main.cpp.obj	25cee525924e47fb
+242	2872	7663426830628521	CMakeFiles/kalkulator.dir/mainwindow.cpp.obj	9628a85263d0a6e5
+245	2730	7663426830657017	CMakeFiles/kalkulator.dir/secondwindow.cpp.obj	c0fdc693148f8c81
+248	2547	7663426830678607	CMakeFiles/kalkulator.dir/menu.cpp.obj	b0764cfc87b99bd3
+27	771	7663442206825252	kalkulator_autogen/timestamp	77a4672cc48e1864
+27	771	7663442206825252	kalkulator_autogen/mocs_compilation.cpp	77a4672cc48e1864
+27	771	7663442206825252	D:/287181/kalkulator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/kalkulator_autogen/timestamp	77a4672cc48e1864
+27	771	7663442206825252	D:/287181/kalkulator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/kalkulator_autogen/mocs_compilation.cpp	77a4672cc48e1864
+772	907	7663442208734548	kalkulator_autogen/EWIEGA46WW/qrc_resources.cpp	6984eebc71589d01
+772	907	7663442208734548	D:/287181/kalkulator/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/kalkulator_autogen/EWIEGA46WW/qrc_resources.cpp	6984eebc71589d01
+934	4399	7663442209140833	CMakeFiles/kalkulator.dir/kalkulator_autogen/EWIEGA46WW/qrc_resources.cpp.obj	97781e7b64d1e812
+916	4429	7663442209040828	CMakeFiles/kalkulator.dir/menu.cpp.obj	b0764cfc87b99bd3
+930	4456	7663442209140833	CMakeFiles/kalkulator.dir/oautorze.cpp.obj	6e1678bb711bd76d
+907	4477	7663442208969618	CMakeFiles/kalkulator.dir/kalkulator_autogen/mocs_compilation.cpp.obj	85ca40a176fe75cc
+913	4555	7663442209019473	CMakeFiles/kalkulator.dir/secondwindow.cpp.obj	c0fdc693148f8c81
+910	4763	7663442208999528	CMakeFiles/kalkulator.dir/mainwindow.cpp.obj	9628a85263d0a6e5
+4764	5164	7663442247469104	kalkulator.exe	d4f6e2b3bd35620c

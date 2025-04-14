@@ -1,0 +1,4 @@
+#ifndef SECCONDWINDOW_H
+#define SECCONDWINDOW_H
+
+#endif // SECCONDWINDOW_H
