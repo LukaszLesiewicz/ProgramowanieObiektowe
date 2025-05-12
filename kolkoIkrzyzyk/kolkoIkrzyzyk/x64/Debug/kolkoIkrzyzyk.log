@@ -1,0 +1,6 @@
+﻿  kolkoIkrzyzyk.cpp
+  mechanika.cpp
+  mechanikagry.cpp
+  Generowanie kodu...
+D:\Users\Uzytkownik\source\repos\kolkoIkrzyzyk\kolkoIkrzyzyk\mechanikagry.cpp(4,1): error C2059: błąd składniowy: „private”
+D:\Users\Uzytkownik\source\repos\kolkoIkrzyzyk\kolkoIkrzyzyk\mechanikagry.cpp(15,1): error C2059: błąd składniowy: „public”
