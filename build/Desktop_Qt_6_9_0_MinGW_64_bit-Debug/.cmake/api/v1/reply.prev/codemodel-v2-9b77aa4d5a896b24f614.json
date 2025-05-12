@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-0098331f2fb18f9d39c7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "kolkoikrzyzyk",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "kolkoikrzyzyk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolkoikrzyzyk-Debug-00eac1f471634b742ead.json",
+					"name" : "kolkoikrzyzyk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolkoikrzyzyk_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolkoikrzyzyk_autogen-Debug-a6657ab13ac885fc0b6f.json",
+					"name" : "kolkoikrzyzyk_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "kolkoikrzyzyk_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-kolkoikrzyzyk_autogen_timestamp_deps-Debug-1b21d4cfd1345c52c6f7.json",
+					"name" : "kolkoikrzyzyk_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/000000000/kolkoikrzyzyk/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "D:/Qt/000000000/kolkoikrzyzyk"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
